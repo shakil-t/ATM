@@ -1,2 +1,2 @@
 # ATM
-This is an simple ATM written in java.
+This is a simple ATM written in java.
